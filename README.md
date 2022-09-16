@@ -1,1 +1,1 @@
-# Pizzaria_Listar_Clientes
+# Curso Técnico em Informática - SENAC RS
